@@ -1,0 +1,6 @@
+PROJECTION
+4
+Codigo comuna
+Codigo region
+Fecha
+Casos confirmados

@@ -1,0 +1,4 @@
+SELECT
+Casos confirmados
+>
+17.0

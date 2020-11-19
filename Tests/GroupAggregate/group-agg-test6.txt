@@ -1,0 +1,5 @@
+GROUP
+Region
+AGGREGATE
+Casos confirmados
+MAX

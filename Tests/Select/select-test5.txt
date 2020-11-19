@@ -1,0 +1,4 @@
+SELECT
+Poblacion
+<
+8840.0

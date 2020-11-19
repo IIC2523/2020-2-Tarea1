@@ -1,0 +1,5 @@
+GROUP
+Comuna
+AGGREGATE
+Casos confirmados
+AVG

@@ -1,0 +1,5 @@
+PROJECTION
+3
+Region
+Comuna
+Casos confirmados

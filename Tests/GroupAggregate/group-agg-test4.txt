@@ -1,0 +1,5 @@
+GROUP
+Region
+AGGREGATE
+Codigo comuna
+MIN

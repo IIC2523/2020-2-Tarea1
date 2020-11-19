@@ -1,0 +1,8 @@
+PROJECTION
+6
+Fecha
+Comuna
+Codigo region
+Poblacion
+Casos confirmados
+Region

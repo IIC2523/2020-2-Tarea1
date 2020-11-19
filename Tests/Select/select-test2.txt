@@ -1,0 +1,4 @@
+SELECT
+Region
+!=
+Arica y Parinacota

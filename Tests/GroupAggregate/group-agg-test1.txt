@@ -1,0 +1,5 @@
+GROUP
+Casos confirmados
+AGGREGATE
+Codigo region
+MAX

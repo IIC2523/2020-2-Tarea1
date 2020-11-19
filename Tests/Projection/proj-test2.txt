@@ -1,0 +1,9 @@
+PROJECTION
+7
+Region
+Codigo region
+Comuna
+Codigo comuna
+Poblacion
+Fecha
+Casos confirmados

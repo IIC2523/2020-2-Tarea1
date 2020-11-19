@@ -1,0 +1,5 @@
+GROUP
+Region
+AGGREGATE
+Poblacion
+SUM

@@ -1,0 +1,5 @@
+GROUP
+Codigo region
+AGGREGATE
+Poblacion
+AVG
